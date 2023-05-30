@@ -7,5 +7,5 @@ class Sum():
 
 sums=Sum(5,10)
 
-print(sums.add())
+print("The Sum is", sums.add())
 
